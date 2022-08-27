@@ -133,18 +133,18 @@ export default function Home() {
               money in bear markets
             </p>
             <p className="text-center mx-8 text-gray-700 ">
-              I discuss every move making posts on Etoro’s feed so you know
-              where you put your money in
+              I discuss every move making posts on Etoros feed so you know where
+              you put your money in
             </p>
           </div>
           <div className="mt-4 flex space-x-4 lg:flex-[1.8] lg:items-center lg:justify-center lg:space-x-8 lg:pl-20">
-            <a href="https://www.google.com" target="_blank" className="">
+            <a href="https://www.google.com" className="">
               <button className="w-10 h-10 rounded-md border border-dashed border-green-600 lg:w-14 lg:h-14"></button>
             </a>
-            <a href="https://www.google.com" target="_blank" className="">
+            <a href="https://www.google.com" className="">
               <button className="w-10 h-10 rounded-md border border-dashed border-green-600 lg:w-14 lg:h-14"></button>
             </a>
-            <a href="https://www.google.com" target="_blank" className="">
+            <a href="https://www.google.com" className="">
               <button className="w-10 h-10 rounded-md border border-dashed border-green-600 lg:w-14 lg:h-14"></button>
             </a>
           </div>
@@ -165,7 +165,11 @@ export default function Home() {
                   </div>
                   <p>
                     REGISTER using the link below: {""}
-                    <a href="https://etoro.tw/2X2YMre" className="underline">
+                    <a
+                      href="https://etoro.tw/2X2YMre"
+                      rel="noreferrer"
+                      className="underline"
+                    >
                       {" "}
                       https://etoro.tw/2X2YMre
                     </a>
@@ -205,6 +209,7 @@ export default function Home() {
                       Go to my {""}
                       <a
                         href="https://www.etoro.com/people/popularinvestors
+                        
                     "
                         className="underline"
                       >

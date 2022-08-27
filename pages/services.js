@@ -12,6 +12,7 @@ const Services = () => {
         <a
           href="http://thenewrich-school.thinkific.com"
           className=" text-md p-2 text-green-600"
+          rel="noreferrer"
           target="_blank"
         >
           thenewrich-school.thinkific.com
