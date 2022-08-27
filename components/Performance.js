@@ -37,6 +37,7 @@ const Performance = () => {
             <a
               href="https://www.etoro.com/people/alenerss/stats"
               target="_blank"
+              rel="noreferrer"
               className="text-green-600 underline"
             >
               stats
@@ -45,6 +46,7 @@ const Performance = () => {
             <a
               className="text-green-600 underline"
               target="_blank"
+              rel="noreferrer"
               href="https://factsheets.fundpeak.com/Report/473D3034AE5913E9109B162D8ECFD311BF9510485E716EFC632DE8B0409200697BB28C82B292020F"
             >
               fact sheet

@@ -7,7 +7,7 @@ const Footer = () => {
         This is a marketing communication and should not be taken as investment
         advice, personal recommendation, or an offer of, or solicitation to, buy
         or sell any financial instruments. This material has been prepared
-        without taking any particular recipient’s investment objectives or
+        without taking any particular recipient's investment objectives or
         financial situation into account, and has not been prepared in
         accordance with the legal and regulatory requirements to promote
         independent research. Any references to past or future performance of a
