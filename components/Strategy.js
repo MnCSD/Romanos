@@ -14,7 +14,7 @@ const Strategy = () => {
           </div>
 
           <h1 className="text-gray-600 text-center">
-            I'm a quantitative value investor
+            I&apos;m a quantitative value investor
           </h1>
         </div>
 

@@ -33,7 +33,7 @@ export default function Home() {
         <div className="absolute top-8 md:top-20  lg:top-[200px] lg:ml-14 xl:ml-[200px] animate-fadein">
           <p className="text-sm mx-2 text-gray-600 italic md:text-lg lg:w-[500px] xl:text-2xl">
             “Aya Laraya said: when you invest you are buying a day that you
-            don’t have to work. My goal is to make people financially
+            don&apos;t have to work. My goal is to make people financially
             independent, so they can follow their dreams. ”
           </p>
           <div className="absolute w-[40px] h-[2px] bg-green-500 ml-2 mt-6 md:mt-10 animate-fadein"></div>
@@ -80,13 +80,13 @@ export default function Home() {
               Personal Notes:
             </h1>
             <h1 className="text-gray-600 text-[15px] text-center mx-10">
-              Warren Buffett said: If you don’t find a way to make money while
-              you sleep you will work until you die. I enjoy life so much that I
-              figured out ways to compound my wealth so I can become financially
-              independent and retire early. I was always fascinated about
-              finding the most efficient ways to do things in every aspect of my
-              life and I quickly became obsessed with studying about wealth
-              creation and investing principles.
+              Warren Buffett said: If you don&apos;t find a way to make money
+              while you sleep you will work until you die. I enjoy life so much
+              that I figured out ways to compound my wealth so I can become
+              financially independent and retire early. I was always fascinated
+              about finding the most efficient ways to do things in every aspect
+              of my life and I quickly became obsessed with studying about
+              wealth creation and investing principles.
             </h1>
           </div>
         </div>
@@ -117,7 +117,8 @@ export default function Home() {
               my work the potential of this portfolio.
             </p>
             <p className="text-center mx-8 text-gray-700 ">
-              I have a unique strategy that you won't find in any other trader
+              I have a unique strategy that you won&apos;t find in any other
+              trader
             </p>
             <p className="text-center mx-8 text-gray-700 ">
               I only invest in an evidence based way with strict rules and
