@@ -63,7 +63,7 @@ const Blog = () => {
         <h4>
           eToro is the most well-known site for these investing strategies that
           involve the observation of other traders. These two methods do have
-          similarities but are not the same. I'll explain how using them
+          similarities but are not the same. I&apos;ll explain how using them
           investing has changed from an active to a passive endeavor and how by
           using them non-professional traders can have the edge.
         </h4>
@@ -76,9 +76,9 @@ const Blog = () => {
           other traders. They can see the performance of a trader, get
           notifications if that trader makes a move, and they can also
           communicate with different traders on the platform. The idea is that
-          eToro's users are collaborating as a community. There are areas where
-          users can post messages and talk about their strategies. Many eToro
-          investors will discuss stocks and crypto.
+          eToro&apos;s users are collaborating as a community. There are areas
+          where users can post messages and talk about their strategies. Many
+          eToro investors will discuss stocks and crypto.
         </h4>
         <p className="text-gray-600">Pros and Cons of Social Trading</p>
         <Image
@@ -138,9 +138,9 @@ const Blog = () => {
         <h4 className="mt-4">
           Copy trading is great if you want a hands-off approach but still wish
           to get the heavy lifting done by another trader fee-free. Beginners
-          and busy investors who don't care about improving their trading skills
-          and want to leave the decision-making up to someone else will find
-          success choosing this route.
+          and busy investors who don&apos;t care about improving their trading
+          skills and want to leave the decision-making up to someone else will
+          find success choosing this route.
         </h4>
 
         <h1 className="text-3xl text-[#2F5396] font-semibold">

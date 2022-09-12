@@ -15,12 +15,12 @@ const ServiceSection = () => {
           {" "}
           | Your source of inspiration for success . Get into our world, learn
           how to make an investment and watch your life changing! | From a
-          student who took this course: ' It is really insightful. A must read
-          for all out there who are serious about investing and want to take it
-          to the next level. As Warren Buffett said: 'price is what you pay,
-          value is what you get.' Trust me this course has value way above its
-          price. It essentially is going to make you money instead of taking it
-          from you."
+          student who took this course: &apos; It is really insightful. A must
+          read for all out there who are serious about investing and want to
+          take it to the next level. As Warren Buffett said: &apos;price is what
+          you pay, value is what you get.&apos; Trust me this course has value
+          way above its price. It essentially is going to make you money instead
+          of taking it from you.&apos;
         </p>
       </div>
       <div className="flex justify-center mt-10 space-x-20">
